@@ -4,13 +4,13 @@
 // ─────────────────────────────────────────────────────────────────────────────
 
 const USER_CONFIG = {
-  name:       "Your Name",
+  name:       "葛歆瞳",
   initials:   "YN",
-  role:       "PhD Candidate",
-  university: "Your University",
-  email:      "your.email@university.edu",
-  bio:        "Exploring the frontiers of your research area, machine learning, and artificial intelligence. Building intelligent systems that advance scientific discovery.",
-  photo:      "",   // optional: path to your photo, e.g. "assets/photo.jpg"
+  role:       "副主任医师，副教授，硕士生导师",
+  university: "天津医科大学总医院",
+  email:      "xge@tmu.edu.cn",
+  bio:        "脑损伤与脑体互作",
+  photo:      "assets/avatar.png",   // optional: path to your photo, e.g. "assets/photo.jpg"
 
   stats: [
     { value: "10+",  label: "Publications" },
