@@ -13,9 +13,9 @@ const USER_CONFIG = {
   photo:      "assets/avatar.png",   // optional: path to your photo, e.g. "assets/photo.jpg"
 
   stats: [
-    { value: "23",  label: "SCI论文(第一/共一/通讯作者)" },
-    { value: "8", label: "人才项目" },
-    { value: "9",   label: "科研项目（主持）" },
+    { value: "10+",  label: "Publications" },
+    { value: "200+", label: "Citations" },
+    { value: "5+",   label: "Projects" },
   ],
 
   links: {
