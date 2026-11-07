@@ -31,7 +31,7 @@ const USER_CONFIG = {
       title:    "Decreased IL-33 in the brain following repetitive mild traumatic brain injury contributes to cognitive impairment by inhibiting microglial phagocytosis",
       authors:  "末位通讯作者",
       venue:    "Military Medical Research. 2025; 12(1)",
-      links:    { pdf: "#", code: "#" },
+      links:    { pdf: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12323175/pdf/40779_2025_Article_631.pdf"},
       abstract: "A brief summary of your paper's contributions and findings.",
     },
     {
