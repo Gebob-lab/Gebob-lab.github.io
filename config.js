@@ -54,7 +54,7 @@ const USER_CONFIG = {
   ],
 
   news: [
-    { date: "2026.03", badge: "New",   text: "Circulation（共一作者）发表！Hypercholesterolemia-induced inhibition of AMP-activated protein kinase accelerates regulatory T cell senescence and atherosclerosis in humans and mice. Circulation. 2026. 共一排二" },
+    { date: "2026.03", badge: "New",   text: "Circulation论文接收！Hypercholesterolemia-induced inhibition of AMP-activated protein kinase accelerates regulatory T cell senescence and atherosclerosis in humans and mice. Circulation. 2026. 共一排二" },
     { date: "2026.05", badge: "Award", text: "Received fellowship / award." },
   ],
 
