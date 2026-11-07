@@ -39,7 +39,7 @@ const USER_CONFIG = {
       title:    "Another Paper Title",
       authors:  "Your Name, Co-Author 1",
       venue:    "Conference / Journal Name 2024",
-      links:    { pdf: "#" },
+      links:    { pdf: "https://pmc.ncbi.nlm.nih.gov/articles/PMC12323175/pdf/40779_2025_Article_631.pdf" },
       abstract: "",
     },
   ],
