@@ -20,6 +20,38 @@ Allow: /
 User-agent: CCBot
 Allow: /
 User-agent: Bytespider
+
+# Kimi
+User-agent: KimiBot
 Allow: /
+User-agent: Kimi-User
+Allow: /
+User-agent: Kimi-SearchBot
+Allow: /
+User-agent: MoonshotBot
+Allow: /
+
+# DeepSeek
+User-agent: DeepSeekBot
+Allow: /
+
+# 通义千问
+User-agent: QwenBot
+Allow: /
+User-agent: TongyiBot
+Allow: /
+User-agent: AlibabaBot
+Allow: /
+
+# 智谱
+User-agent: ZhipuBot
+Allow: /
+
+# 腾讯元宝（线索型）
+User-agent: TencentAIspider
+Allow: /
+User-agent: Yuanbao
+Allow: /
+
 
 Sitemap: https://Gebob-lab.github.io/sitemap.xml
