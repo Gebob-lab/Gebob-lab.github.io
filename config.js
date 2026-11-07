@@ -28,9 +28,9 @@ const USER_CONFIG = {
   publications: [
     {
       year:     2025,
-      title:    "Your Paper Title Here",
-      authors:  "Your Name, Co-Author 1, Co-Author 2",
-      venue:    "Conference / Journal Name 2025",
+      title:    "Decreased IL-33 in the brain following repetitive mild traumatic brain injury contributes to cognitive impairment by inhibiting microglial phagocytosis",
+      authors:  "末位通讯作者",
+      venue:    "Military Medical Research. 2025; 12(1)",
       links:    { pdf: "#", code: "#" },
       abstract: "A brief summary of your paper's contributions and findings.",
     },
