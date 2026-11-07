@@ -5,7 +5,7 @@
 
 const USER_CONFIG = {
   name:       "葛歆瞳",
-  initials:   "YN",
+  initials:   "葛歆瞳学术主页",
   role:       "副主任医师，副教授，硕士生导师",
   university: "天津医科大学总医院",
   email:      "xge@tmu.edu.cn",
@@ -13,9 +13,9 @@ const USER_CONFIG = {
   photo:      "assets/avatar.png",   // optional: path to your photo, e.g. "assets/photo.jpg"
 
   stats: [
-    { value: "10+",  label: "Publications" },
-    { value: "200+", label: "Citations" },
-    { value: "5+",   label: "Projects" },
+    { value: "23",  label: "SCI论文(第一/共一/通讯作者)" },
+    { value: "8", label: "人才项目" },
+    { value: "9",   label: "科研项目（主持）" },
   ],
 
   links: {
