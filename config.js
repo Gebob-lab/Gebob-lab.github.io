@@ -13,9 +13,9 @@ const USER_CONFIG = {
   photo:      "assets/avatar.png",   // optional: path to your photo, e.g. "assets/photo.jpg"
 
   stats: [
-    { value: "10+",  label: "Publications" },
-    { value: "200+", label: "Citations" },
-    { value: "5+",   label: "Projects" },
+    { value: "20+",  label: "Publications" },
+    { value: "1000+", label: "Citations" },
+    { value: "9",   label: "Projects" },
   ],
 
   links: {
